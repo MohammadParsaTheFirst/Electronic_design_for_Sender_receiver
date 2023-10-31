@@ -1,0 +1,221 @@
+Circuit: * C:\Users\Arian\Desktop\electronicsll_400101204\Receiver.asc
+
+WARNING: Less than two connections to node NC_01.  This node is used by D2.
+WARNING: Less than two connections to node OUTPUT_CS.  This node is used by M13.
+Instance "m10": Length shorter than recommended for a level 1 MOSFET.
+Instance "m9": Length shorter than recommended for a level 1 MOSFET.
+Instance "m17": Length shorter than recommended for a level 1 MOSFET.
+Instance "m14": Length shorter than recommended for a level 1 MOSFET.
+Instance "m11": Length shorter than recommended for a level 1 MOSFET.
+Instance "m8": Length shorter than recommended for a level 1 MOSFET.
+Instance "m19": Length shorter than recommended for a level 1 MOSFET.
+Instance "m16": Length shorter than recommended for a level 1 MOSFET.
+Instance "m18": Length shorter than recommended for a level 1 MOSFET.
+Instance "m15": Length shorter than recommended for a level 1 MOSFET.
+Instance "m20": Length shorter than recommended for a level 1 MOSFET.
+Instance "m7": Length shorter than recommended for a level 1 MOSFET.
+Instance "m13": Length shorter than recommended for a level 1 MOSFET.
+Instance "m12": Length shorter than recommended for a level 1 MOSFET.
+Instance "m6": Length shorter than recommended for a level 1 MOSFET.
+Instance "m5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 9.80797e-006
+vernier = 0.00390625
+vernier = 0.00520833
+Gmin = 9.70955e-006
+vernier = 0.00694444
+vernier = 0.00925925
+Gmin = 9.53983e-006
+vernier = 0.0123457
+Gmin = 9.27885e-006
+vernier = 0.0164609
+vernier = 0.0219478
+Gmin = 8.85701e-006
+vernier = 0.0292638
+vernier = 0.0390184
+Gmin = 8.22447e-006
+vernier = 0.0195092
+vernier = 0.00975459
+vernier = 0.0048773
+vernier = 0.00243865
+vernier = 0.00121932
+vernier = 0.000609662
+vernier = 0.000457246
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 33.5109%
+vernier = 0.000976563
+Source Step = 33.5286%
+Source Step = 33.5582%
+Source Step = 33.5878%
+Source Step = 33.6174%
+Source Step = 33.647%
+vernier = 0.00146484
+Source Step = 33.684%
+Source Step = 33.7284%
+Source Step = 33.7728%
+Source Step = 33.8172%
+Source Step = 33.8616%
+vernier = 0.00219727
+Source Step = 33.9148%
+Source Step = 33.9814%
+Source Step = 34.048%
+Source Step = 34.1146%
+Source Step = 34.1812%
+vernier = 0.0032959
+Source Step = 34.2577%
+Source Step = 34.3576%
+Source Step = 34.4575%
+Source Step = 34.5574%
+Source Step = 34.6572%
+vernier = 0.00494385
+Source Step = 34.7671%
+Source Step = 34.9169%
+Source Step = 35.0667%
+Source Step = 35.2165%
+Source Step = 35.3664%
+vernier = 0.00741577
+Source Step = 35.5237%
+Source Step = 35.7484%
+Source Step = 35.9731%
+Source Step = 36.1978%
+Source Step = 36.2652%
+Source Step = 36.3214%
+Source Step = 36.3776%
+Source Step = 36.4338%
+Source Step = 36.49%
+vernier = 0.00278091
+Source Step = 36.5658%
+Source Step = 36.6501%
+Source Step = 36.7343%
+Source Step = 36.8186%
+Source Step = 36.9029%
+vernier = 0.00417137
+Source Step = 37.0124%
+Source Step = 37.1388%
+Source Step = 37.2652%
+Source Step = 37.3917%
+Source Step = 37.5181%
+vernier = 0.00625706
+Source Step = 37.6761%
+Source Step = 37.8657%
+Source Step = 38.0553%
+Source Step = 38.2449%
+Source Step = 38.4345%
+vernier = 0.00938559
+Source Step = 38.662%
+Source Step = 38.9464%
+Source Step = 39.2308%
+Source Step = 39.5153%
+Source Step = 39.7997%
+vernier = 0.0140784
+Source Step = 40.1267%
+Source Step = 40.5534%
+Source Step = 40.98%
+Source Step = 41.4066%
+Source Step = 41.8332%
+vernier = 0.0211176
+Source Step = 42.3025%
+Source Step = 42.9424%
+Source Step = 43.5823%
+Source Step = 44.2223%
+Source Step = 44.8622%
+vernier = 0.0316764
+Source Step = 45.5341%
+Source Step = 46.494%
+Source Step = 47.4539%
+Source Step = 48.4138%
+Source Step = 49.3737%
+Source Step = 50.3336%
+vernier = 0.0475145
+Source Step = 51.7734%
+Source Step = 53.2132%
+Source Step = 54.6531%
+Source Step = 56.0929%
+Source Step = 57.5327%
+vernier = 0.0712718
+Source Step = 59.6205%
+Source Step = 61.7802%
+Source Step = 63.94%
+Source Step = 66.0998%
+Source Step = 68.2595%
+vernier = 0.106908
+Source Step = 71.2832%
+Source Step = 74.5228%
+Source Step = 77.7624%
+Source Step = 81.002%
+Source Step = 84.2417%
+vernier = 0.160362
+Source Step = 88.6152%
+Source Step = 93.4746%
+Source Step = 96.9066%
+Source Step = 96.9749%
+Source Step = 97.0508%
+Source Step = 97.1268%
+Source Step = 97.2027%
+Source Step = 97.2786%
+Source Step = 97.3546%
+Source Step = 97.4305%
+Source Step = 97.5064%
+Source Step = 97.5823%
+Source Step = 97.6583%
+vernier = 0.00375847
+Source Step = 97.7608%
+Source Step = 97.8747%
+Source Step = 97.9886%
+Source Step = 98.1025%
+Source Step = 98.2164%
+vernier = 0.00563771
+Source Step = 98.3644%
+Source Step = 98.5353%
+Source Step = 98.7061%
+Source Step = 98.8769%
+Source Step = 99.0478%
+vernier = 0.00845657
+Source Step = 99.2613%
+Source Step = 99.5176%
+Source Step = 99.7738%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Sun Jul 02 22:33:11 2023
+Total elapsed time: 13.876 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1165173
+traniter = 1153416
+tranpoints = 576709
+accept = 363074
+rejected = 213635
+matrix size = 32
+fillins = 24
+solver = Normal
+Thread vector: 7.2/5.6[2] 3.9/3.6[1] 1.5/5.6[1] 0.4/1.1[1]  2592/500
+Matrix Compiler1: 3.29 KB object code size  1.2/0.5/[0.3]
+Matrix Compiler2: 3.15 KB object code size  0.6/0.6/[0.5]
+
